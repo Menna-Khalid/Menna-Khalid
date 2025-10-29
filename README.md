@@ -69,20 +69,23 @@ I am a passionate **AI & ML Engineer** with a strong background in building and 
 ---
 
 ### 🔥 Projects & Highlights
+1. **AI-Resume-Matcher**  
+   - **Repo**: [AI-Resume-Matcher](https://github.com/Menna-Khalid/AI-Resume-Matcher)  
+   - **Summary**: AI-Resume-Matcher is an end-to-end system that allows job seekers or HR practitioners to automatically analyse how well a candidate’s resume matches a specified job description, leveraging AI/NLP to provide a match score and deep feedback on strengths and gaps.
 
-1. **Uper-Fare-Predection**  
+2. **Uper-Fare-Predection**  
    - **Repo**: [Uper-Fare-Predection](https://github.com/Menna-Khalid/Uper-Fare-Predection)  
    - **Summary**: A machine learning model to predict ride fare prices, applying data cleaning, feature engineering, and regression algorithms for accurate fare estimates.
 
-2. **END-TO-END-Hotel-Booking-Cancelation-Prediction**  
+3. **END-TO-END-Hotel-Booking-Cancelation-Prediction**  
    - **Repo**: [END-TO-END-Hotel-Booking-Cancelation-Prediction](https://github.com/Menna-Khalid/END-TO-END-Hotel-Booking-Cancelation-Prediction)  
    - **Summary**: An end-to-end ML pipeline forecasting hotel booking cancellations, including data ingestion, model training, and deployment steps.
 
-3. **Sentiment-Analysis-using-Transformers-model-app**  
+4. **Sentiment-Analysis-using-Transformers-model-app**  
    - **Repo**: [Sentiment-Analysis-using-Transformers-model-app](https://github.com/Menna-Khalid/Sentiment-Analysis-using-Transformers-model-app)  
    - **Summary**: A transformer-based NLP application that classifies sentiment from text input, showcasing Hugging Face transformers integration and model serving.
 
-4. **Credit-Card-Fraud-Detection_END-TO-END-ML-Model**  
+5. **Credit-Card-Fraud-Detection_END-TO-END-ML-Model**  
    - **Repo**: [Credit-Card-Fraud-Detection_END-TO-END-ML-Model](https://github.com/Menna-Khalid/Credit-Card-Fraud-Detection-ML-Model)  
    - **Summary**: A complete pipeline for detecting fraudulent credit card transactions, leveraging advanced anomaly detection,Unbalansed data methods and robust data processing.
 
@@ -99,9 +102,9 @@ I am a passionate **AI & ML Engineer** with a strong background in building and 
 ## 🎓 Certifications & CV
 
 - **Certifications:**  
-  - [My Certificate](https://drive.google.com/drive/folders/1KhLoxztIfNdZR2SCl9s0ikCQcZGTIPC-) <!-- Replace with real links if needed -->
+  - [My Certificate](https://drive.google.com/drive/folders/1KhLoxztIfNdZR2SCl9s0ikCQcZGTIPC-) 
 - **Curriculum Vitae:**  
-  - [My CV](https://drive.google.com/your-cv-link) <!-- Replace with your actual CV link -->
+  - [My CV](https://drive.google.com/your-cv-link) 
 
 ---
 
