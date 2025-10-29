@@ -73,7 +73,7 @@ I am a passionate **AI & ML Engineer** with a strong background in building and 
    - **Repo**: [AI-Resume-Matcher](https://github.com/Menna-Khalid/AI-Resume-Matcher)  
    - **Summary**: AI-Resume-Matcher is an end-to-end system that allows job seekers or HR practitioners to automatically analyse how well a candidate’s resume matches a specified job description, leveraging AI/NLP to provide a match score and deep feedback on strengths and gaps.
 
-2. **Uper-Fare-Predection**  
+2. **News-Classification**  
    - **Repo**: [News-Classification](https://github.com/Menna-Khalid/News-Classification)  
    - **Summary**: comprehensive Natural Languge Processing project designed for the real-time classification of text documents into one of 20 distinct newsgroup categories. 
 
