@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Menna Khaled</h1>
-<h3 align="center">ML & AI Engineer</h3>
+<h3 align="center">AI & ML Engineer</h3>
 
 
 ---
@@ -74,18 +74,22 @@ I am a passionate **AI & ML Engineer** with a strong background in building and 
    - **Summary**: AI-Resume-Matcher is an end-to-end system that allows job seekers or HR practitioners to automatically analyse how well a candidate’s resume matches a specified job description, leveraging AI/NLP to provide a match score and deep feedback on strengths and gaps.
 
 2. **Uper-Fare-Predection**  
+   - **Repo**: [News-Classification](https://github.com/Menna-Khalid/News-Classification)  
+   - **Summary**: comprehensive Natural Languge Processing project designed for the real-time classification of text documents into one of 20 distinct newsgroup categories. 
+
+3. **Uper-Fare-Predection**  
    - **Repo**: [Uper-Fare-Predection](https://github.com/Menna-Khalid/Uper-Fare-Predection)  
    - **Summary**: A machine learning model to predict ride fare prices, applying data cleaning, feature engineering, and regression algorithms for accurate fare estimates.
 
-3. **END-TO-END-Hotel-Booking-Cancelation-Prediction**  
+4. **END-TO-END-Hotel-Booking-Cancelation-Prediction**  
    - **Repo**: [END-TO-END-Hotel-Booking-Cancelation-Prediction](https://github.com/Menna-Khalid/END-TO-END-Hotel-Booking-Cancelation-Prediction)  
    - **Summary**: An end-to-end ML pipeline forecasting hotel booking cancellations, including data ingestion, model training, and deployment steps.
 
-4. **Sentiment-Analysis-using-Transformers-model-app**  
+5. **Sentiment-Analysis-using-Transformers-model-app**  
    - **Repo**: [Sentiment-Analysis-using-Transformers-model-app](https://github.com/Menna-Khalid/Sentiment-Analysis-using-Transformers-model-app)  
    - **Summary**: A transformer-based NLP application that classifies sentiment from text input, showcasing Hugging Face transformers integration and model serving.
 
-5. **Credit-Card-Fraud-Detection_END-TO-END-ML-Model**  
+6. **Credit-Card-Fraud-Detection_END-TO-END-ML-Model**  
    - **Repo**: [Credit-Card-Fraud-Detection_END-TO-END-ML-Model](https://github.com/Menna-Khalid/Credit-Card-Fraud-Detection-ML-Model)  
    - **Summary**: A complete pipeline for detecting fraudulent credit card transactions, leveraging advanced anomaly detection,Unbalansed data methods and robust data processing.
 
