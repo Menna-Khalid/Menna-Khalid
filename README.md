@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Menna Khaled</h1>
-<h3 align="center">AI & ML Engineer</h3>
+<h3 align="center">SE & AI / ML Engineer</h3>
 
 
 ---
